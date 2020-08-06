@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>Vincent test Gatsby + Node.js uit ! Werkt dit?? (TypeScript) API</title>
       </Helmet>
       <h1>Gatsby + Node.js (TypeScript) API</h1>
       <h2>
